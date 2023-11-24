@@ -1,4 +1,4 @@
-# Virtual Classroom Interface
+# Virtual Classroom
 ### Please Refer To The Attached Video for demo. (Demo Video.mp4)
 ## Overview
 The virtual classroom interface is designed to provide an intuitive and user-friendly experience for students who are already registered in the system. The interface consists of key components such as a Navbar, Sidebar, Video Player, and additional features like a Camera and Profile option. The design decisions were guided by the need for simplicity, ease of use, and efficient navigation within the virtual classroom environment.
