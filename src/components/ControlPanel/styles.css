@@ -1,0 +1,21 @@
+/* .control-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;} /* Adjust as needed */
+
+  .control-panel {
+    /* Other styling */
+    position: absolute; /* Position the control panel absolutely within its parent */
+    bottom: 0; /* Anchor to the bottom */
+    left: 0; /* Align to the left */
+  }
+  
+  .control-button {
+    /* Reduce margin or padding as needed to bring buttons closer together */
+    margin-bottom: 5px; /* Example reduced spacing */
+    /* Other button styles */
+  }
+  
+  

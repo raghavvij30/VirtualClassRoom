@@ -1,0 +1,14 @@
+.video-player-container {
+  height: 80%; /* Full height of its parent */
+  width: 70vw; /* Half the width of the viewport */
+  position: relative; /* Positioning context for the iframe */
+  margin-left: 300px; /* Push the container to the right */
+}
+
+.video-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* Full width of its container */
+  height: 100%; /* Full height of its container */
+}

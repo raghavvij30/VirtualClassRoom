@@ -1,0 +1,17 @@
+.user-avatar {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .avatar-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: block;
+  }
+  
+  .avatar-name {
+    display: block;
+  }
+  

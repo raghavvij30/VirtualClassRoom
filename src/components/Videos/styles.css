@@ -1,0 +1,28 @@
+.video-layout {
+    display: flex;
+    height: calc(100vh - /* height of your header */);
+    margin-top: /* height of your header */;
+  }
+  
+  .left-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Align the buttons to the bottom */
+    padding-bottom: 20px; /* Space from the bottom of the page */
+    height: 100%; /* Full height to align items to the bottom */
+  }
+  
+  .control-button {
+    /* Style your buttons here */
+    margin-bottom: 0px; /* Reduce space between buttons */
+  }
+  
+  .video-area {
+    flex-grow: 1;
+    width: 100%;
+    margin-top: 20px; /* Margin from the top */
+    margin-left: 20px; /* Margin from the left */
+    margin-bottom: 20px; /* Margin from the bottom */
+    height: 100%; /* Adjust height based on the margin */
+  }
+  
